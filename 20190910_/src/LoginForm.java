@@ -119,7 +119,7 @@ public class LoginForm extends JFrame implements ActionListener{
 	}
 	
 	public LoginForm(){
-		setLocation(400, 200);
+		setLocation(650, 350);
 //		setLocationRelativeTo(null);	// JFrame 중간으로 실행
 		
 		setTitle("LoginForm");
